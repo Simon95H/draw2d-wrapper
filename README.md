@@ -1,11 +1,11 @@
 # draw2d-wrapper
 draw2d-eb-wrapper including missing features like "semanticPorts"
 
-####In this repository you will find a draw2d-wrapper. The wrapper is based on the draw2d-eb-wrapper, which is available as an npm package.
-####The first thing added is the logic of the "semanticPorts".
-####If more features of the existing draw2d-project are missing in the wrapper, feel free to contact me. I will be happy to add missing features.
+#### In this repository you will find a draw2d-wrapper. The wrapper is based on the draw2d-eb-wrapper, which is available as an npm package.
+#### The first thing added is the logic of the "semanticPorts".
+#### If more features of the existing draw2d-project are missing in the wrapper, feel free to contact me. I will be happy to add missing features.
 
-###Angular
+### Angular
 To add the wrapper to an existing Angular project, you need to do the following:
 
 1. Copy this js-file to Copy the js file into one of the folders of the Angular project
