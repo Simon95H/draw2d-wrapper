@@ -23,6 +23,6 @@ E.g. (in {name}.component.ts):
 ```declare let BoundingboxFigure: any;```   
 ```...```   
 ```let canvas = new draw2d.Canvas("gfx_holder");```     
-```canvas.add(new BoundingboxFigure({id:"42", x:100, y:100}))```
+```canvas.add(new BoundingboxFigure({id:"42", x:100, y:100}));```
 
 5. Add the path to the BoundingBoxFigure.js under scripts in angular.json
